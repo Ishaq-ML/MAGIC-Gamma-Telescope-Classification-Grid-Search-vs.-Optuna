@@ -1,0 +1,2 @@
+# MAGIC-Gamma-Telescope-Classification-Grid-Search-vs.-Optuna
+This project performs binary classification on the MAGIC Gamma Telescope dataset to distinguish between electromagnetic showers (Gamma) and hadronic showers (Hadron). The analysis is split into two distinct workflows to compare hyperparameter optimization techniques: a Multi-Model Randomized Search and an Optuna-based Bayesian Optimization.
